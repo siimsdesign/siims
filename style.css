@@ -1,0 +1,78 @@
+body
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 60px;
+margin-bottom: 30px;
+}
+.logo img
+
+{
+width: 50px;
+height: 50px;
+}
+nav a
+{
+    margin-left: 20px;
+    font-size: 1.1em;
+    text-decoration: none;
+    color: black;
+} 
+#a_propos
+{
+    display: flex;
+    padding: 10% 20% 10% 20%;
+    margin-bottom: 50px;
+}
+.profil
+{
+    margin-left: 20px;
+}
+.profil img
+{
+    width: 300px;
+}
+.boutton
+{
+    background-color: rgb(red, green, blue);
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+.boutton a 
+{
+text-decoration: none;
+color:black
+}
+.lieu_visite h2
+{
+    text-align: center;
+}
+.lieu_visite_2 img, .lieu_visite_1
+{
+display: flex;
+justify-content: center;
+}
+
+.lieu_visite_2 img, .lieu_visite_1 img
+{
+    width: 320px;
+    height: 320px;
+    margin: 20px;
+}
+.retour h2
+{ 
+    text-align: center;
+}
+.retour_experiences 
+{ 
+    display: flex;
+}
+.carte 
+{
+    width: 50%;
+    margin-left: 10%;
+}
